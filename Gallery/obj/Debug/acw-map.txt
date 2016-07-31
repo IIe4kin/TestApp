@@ -1,0 +1,12 @@
+Gallery.ImageActivity, Gallery;md58a8cd26ddbca39874618cf9b75d81774.ImageActivity
+Gallery.ImageActivity, Gallery, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58a8cd26ddbca39874618cf9b75d81774.ImageActivity
+Gallery.ImageActivity;md58a8cd26ddbca39874618cf9b75d81774.ImageActivity
+gallery.ImageActivity;md58a8cd26ddbca39874618cf9b75d81774.ImageActivity
+Gallery.ImageAdapter, Gallery;md58a8cd26ddbca39874618cf9b75d81774.ImageAdapter
+Gallery.ImageAdapter, Gallery, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58a8cd26ddbca39874618cf9b75d81774.ImageAdapter
+Gallery.ImageAdapter;md58a8cd26ddbca39874618cf9b75d81774.ImageAdapter
+gallery.ImageAdapter;md58a8cd26ddbca39874618cf9b75d81774.ImageAdapter
+Gallery.MainActivity, Gallery;md58a8cd26ddbca39874618cf9b75d81774.MainActivity
+Gallery.MainActivity, Gallery, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58a8cd26ddbca39874618cf9b75d81774.MainActivity
+Gallery.MainActivity;md58a8cd26ddbca39874618cf9b75d81774.MainActivity
+gallery.MainActivity;md58a8cd26ddbca39874618cf9b75d81774.MainActivity
